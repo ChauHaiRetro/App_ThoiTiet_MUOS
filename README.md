@@ -20,7 +20,7 @@
 
 ## 📦 Hướng Dẫn Cài Đặt
 
-1. **Tải về:** Tải gói cài đặt (`ThoiTietVN.muxapp` hoặc `.zip`) trong mục **Releases** mới nhất.
+1. **Tải về:** Tải gói cài đặt (`ThoiTietVN.muxapp`) tại mục **[Releases mới nhất](https://github.com/ChauHaiRetro/App_ThoiTiet_MUOS/releases/latest)**.
 2. **Sao chép vào thẻ nhớ:** 
    - Tắt máy và cắm thẻ nhớ SD (chứa hệ điều hành **muOS**) vào máy tính.
    - Chép file cài đặt vào thư mục `Archive` trên thẻ nhớ (đường dẫn: `MUOS/archive/` hoặc góc ngoài thẻ nhớ tùy cấu hình).
